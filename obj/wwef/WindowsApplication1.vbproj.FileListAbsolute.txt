@@ -1,0 +1,38 @@
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\AxInterop.DSOFramer.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\Interop.DSOFramer.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\New Console.exe.config
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\New Console.exe
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\AxMSTSCLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\sourcegrid2.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\SourceLibrary.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\sourcegrid2.xml
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.ADODB.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.COMSVCSLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.CW3DGraphLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.InetCtlsObjects.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.MXCTRLLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.nisysapi.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.SHDocVw.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Form1.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Form2.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Form3.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Form4.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.FTestApp.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Form6.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Form7.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\NEWCONSOLE.Resources.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\New Console.exe
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\New Console.pdb
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\wwef\New Console.xml
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\New Console.xml
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\wwef\New Console.pdb

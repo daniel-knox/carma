@@ -1,0 +1,739 @@
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.DSOFramer.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MSComDlg.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MSComctlLib.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Carma\Desktop\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Common\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\June 10\June 10\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Common\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Bill Hayes\Desktop\June19\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Bench2A\Desktop\Bill\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+\\METERDEV\E stick\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe.config
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.exe
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.pdb
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\New Console.xml
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.exe
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.xml
+E:\Bemch 2\WindowsApplication1\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.exe.config
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.exe
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.pdb
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.xml
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console.exe
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console.xml
+C:\Users\Carma\Desktop\NOV11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console.pdb
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.exe
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.exe.config
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.pdb
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console.xml
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console.exe
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console.xml
+\\METERDEV\E stick\Bench3\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console.pdb
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.config
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.pdb
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.xml
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.exe
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.xml
+C:\Users\Carma\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.pdb
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.config
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.pdb
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.xml
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\sourcegrid2.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\SourceLibrary.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\sourcegrid2.xml
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.exe
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.xml
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.pdb
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.manifest
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.application
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.exe.manifest
+C:\Users\Carma\Desktop\Bill Programming\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.application
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.config
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.manifest
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.application
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.pdb
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.xml
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.exe.manifest
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.application
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.exe
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.xml
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\New Console Bench 3.pdb
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.CodeAnalysisLog.xml
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\New Console Bench 3.exe.lastcodeanalysissucceeded
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\obj\Debug\Interop.BDaqOcxLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.BDaqOcxLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\Users\BENCH2-PC\Desktop\July 11WindowsApplication1 - Copy\WindowsApplication1\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe.config
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe.manifest
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.application
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.pdb
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.xml
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe.CodeAnalysisLog.xml
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe.lastcodeanalysissucceeded
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.BDaqOcxLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.BDaqOcxLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.exe.manifest
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.application
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.exe
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.xml
+C:\Users\BENCH2-PC\Desktop\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.pdb
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.exe
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.xml
+C:\code\___Program updates for Sept 1-2015 (everything 1x)\Accuracy Check programs\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.pdb
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe.config
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe.manifest
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.application
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.exe
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.pdb
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\New Console Bench 3.xml
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.BDaqOcxLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.BDaqOcxLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.ResolveComReference.cache
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.exe.manifest
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.application
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.exe
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.xml
+C:\Common\newconsole 64 bbit Bench2\WindowsApplication1\obj\Debug\New Console Bench 3.pdb

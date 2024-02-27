@@ -1,0 +1,9 @@
+﻿**************************** March 14-2018 Version 1.1.0.0 ****************************
+-Fix Relay code code to use channel 22 not 23
+-Change Error_Checked_Device formula ((Accuracy radian - Bench Radian)/Accuracy radian) * 100
+-Change what is printed to the Accuracy test file to show new formula
+-Call RLYON() when form5 is opened
+
+**************************** March 27-2018 Version 1.1.0.1 ****************************
+-Removed if statement from Form5 that was causing tap numbers to be reported to the output file incorrectly.
+-Added in code to read voltage multiplier value from an INI file (I.e. 1, 3 or 5)

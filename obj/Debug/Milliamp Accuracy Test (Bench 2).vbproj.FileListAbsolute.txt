@@ -1,0 +1,157 @@
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe.config
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe.manifest
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).application
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).pdb
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).xml
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Interop.BDaqOcxLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbprojResolveAssemblyReference.cache
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.BDaqOcxLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbproj.ResolveComReference.cache
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbproj.GenerateResource.Cache
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).exe.manifest
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).application
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).exe
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).xml
+C:\Common\Milliamp Accuracy Test (Bench 2)\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).pdb
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe.config
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe.manifest
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).application
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).pdb
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).xml
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.BDaqOcxLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbprojResolveAssemblyReference.cache
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.BDaqOcxLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbproj.ResolveComReference.cache
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbproj.GenerateResource.Cache
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).exe.manifest
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).application
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).exe
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).xml
+C:\Common\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).pdb
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.DSOFramer.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.DSOFramer.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe.config
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe.manifest
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).application
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).exe
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).pdb
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Milliamp Accuracy Test (Bench 2).xml
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.BDaqOcxLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxMSTSCLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.BDaqOcxLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.AdvDIOLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\Interop.MSComDlg.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\AxInterop.MSComDlg.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbprojResolveAssemblyReference.cache
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.ADODB.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.BDaqOcxLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.COMSVCSLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.CW3DGraphLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.MXCTRLLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.nisysapi.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.RDPCOMAPILib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.SHDocVw.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.AdvDIOLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\AxInterop.AdvDIOLib.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\AxInterop.MSComDlg.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbproj.ResolveComReference.cache
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form1.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form2.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form3.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form4.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.FTestApp.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form6.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form7.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Form8.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.Resources.resources
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).vbproj.GenerateResource.Cache
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).exe.manifest
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).application
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).exe
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).xml
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Milliamp Accuracy Test (Bench 2).pdb
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.Common.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.Common.Native.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.Common.xml
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\bin\Debug\NationalInstruments.VisaNS.xml
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\Interop.InetCtlsObjects.dll
+C:\Common\Arlis\Milliamp Accuracy Test (Bench 2) -V 1.1.0.1\WindowsApplication1\obj\Debug\NEWCONSOLE.SignalDashboard.resources

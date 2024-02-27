@@ -1,0 +1,15 @@
+
+
+7/11/16 3:02:22 PM:  Accuracy Check
+
+Operator:    bh
+Output:      347   2.50  mA   ( mA Tap 33 ) , 0 Deg ,15 Sec
+
+ Meter Type :  RD-21-312         S/N:  205594 
+
+Reading =   0 wh     NaN      M 2.999
+Known errors (%)  Econsole:   0.009     Emeter: 0.004
+Change    (Etrue - Emeter):  -0.004
+Total (Change + Econsole):    0.005
+Radian:   0  wh
+************************************ Failed ******************************************
